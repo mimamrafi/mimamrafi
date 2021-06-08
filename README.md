@@ -2,7 +2,7 @@
 - 👀 I’m interested in Hardware and Software
 - 🌱 I’m currently learning C, C++, QT, Processing, Eclipse
 - 💞️ I’m looking to collaborate on Hardware and Software Developer
-- 📫 How to reach me muhammadimamrafi@gmail.com
+- 📫 reach me at muhammadimamrafi@gmail.com
 
 <!---
 mimamrafi/mimamrafi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
